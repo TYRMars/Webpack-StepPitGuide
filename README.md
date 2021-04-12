@@ -1,2 +1,4 @@
-[![](/assets/WebPack.png)](https://tyrmars.gitbooks.io/webpack-steppitguide/content/ "webpack-steppitguide")
+# 封面
+
+![](.gitbook/assets/WebPack.png)
 
